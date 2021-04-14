@@ -1,0 +1,21 @@
+{
+    "name": "wakanda-forever-dark-theme",
+    "displayName": "Wakanda Forever ",
+    "description": "An intelligent theme based on wakanda's panther's color scheme",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.55.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Wakana Forever Theme",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Wakana Forever Theme-color-theme.json"
+            }
+        ]
+    }
+}
