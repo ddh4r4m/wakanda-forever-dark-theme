@@ -1,4 +1,4 @@
-# [Night Hacker Dark Theme](https://marketplace.visualstudio.com/items?itemName=ddh4r4m.wakanda-forever-theme)
+# [Wakanda Forever Theme](https://marketplace.visualstudio.com/items?itemName=ddh4r4m.wakanda-forever-dark-theme)
 
 > A dark panther theme for [Visual Studio Code](http://code.visualstudio.com).
 
