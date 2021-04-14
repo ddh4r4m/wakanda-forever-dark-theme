@@ -3,9 +3,27 @@
     "displayName": "Wakanda Forever ",
     "description": "An intelligent theme based on wakanda's panther's color scheme",
     "version": "0.0.1",
+    "publisher": "ddh4r4m",
     "engines": {
         "vscode": "^1.55.0"
     },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/rkstrdee/wakanda-forever-dark-theme"
+    },
+    "icon": "screenshots/icon.jpg",
+    "keywords": [
+        "wakanda dark theme",
+        "wakanda theme",
+        "wakanda forever theme",
+        "dark theme",
+        "wakanda forever",
+        "color theme",
+        "purple",
+        "blue",
+        "vibe theme",
+        "panther theme"
+    ],
     "categories": [
         "Themes"
     ],
