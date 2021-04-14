@@ -67,7 +67,7 @@ Be nice.
 
 ## Team
 
-This theme is maintained by the following person(s) and a bunch of [awesome contributors](https://github.com/rkstrdee/night-hacker-dark-theme/graphs/contributors).
+This theme is maintained by the following person(s) and a bunch of [awesome contributors](https://github.com/rkstrdee/wakanda-forever-dark-theme/graphs/contributors).
 
 [![Dharam D.](https://avatars.githubusercontent.com/u/42842402?v=4&s=70)](https://github.com/rkstrdee) |
 :---: |
