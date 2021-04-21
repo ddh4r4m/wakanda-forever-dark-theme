@@ -3,7 +3,7 @@
 > A dark panther theme for [Visual Studio Code](http://code.visualstudio.com).
 
 # Default Theme
-![Screenshot](https://raw.githubusercontent.com/rkstrdee/wakanda-forever-dark-theme/main/screenshots/default_theme.png)
+![Screenshot](https://raw.githubusercontent.com/rkstrdee/wakanda-forever-dark-theme/main/screenshots/default_theme_1.png)
 
 # Tweaks and theming
 
