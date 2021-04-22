@@ -12,6 +12,9 @@
 # Default Theme
 ![Screenshot](https://raw.githubusercontent.com/rkstrdee/wakanda-forever-dark-theme/main/screenshots/default_theme_1.png)
 
+
+### JavaScript
+
 ![ReactScreenshot](https://raw.githubusercontent.com/rkstrdee/wakanda-forever-dark-theme/main/screenshots/default_theme_2.png)
 
 
