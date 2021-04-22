@@ -1,9 +1,24 @@
 # [Wakanda Forever Theme](https://marketplace.visualstudio.com/items?itemName=ddh4r4m.wakanda-forever-dark-theme)
 
-> A dark panther theme for [Visual Studio Code](http://code.visualstudio.com).
+[![Version](https://vsmarketplacebadge.apphb.com/version/ddh4r4m.wakanda-forever-dark-theme.svg)](https://marketplace.visualstudio.com/items?itemName=ddh4r4m.wakanda-forever-dark-theme)
+[![Rating](https://vsmarketplacebadge.apphb.com/rating-star/ddh4r4m.wakanda-forever-dark-theme.svg)](https://marketplace.visualstudio.com/items?itemName=ddh4r4m.wakanda-forever-dark-theme)
+[![Installs](https://vsmarketplacebadge.apphb.com/installs/ddh4r4m.wakanda-forever-dark-theme.svg)](https://marketplace.visualstudio.com/items?itemName=ddh4r4m.wakanda-forever-dark-theme)
+[![Downloads](https://vsmarketplacebadge.apphb.com/downloads/ddh4r4m.wakanda-forever-dark-theme.svg)](https://marketplace.visualstudio.com/items?itemName=ddh4r4m.wakanda-forever-dark-theme)
+[![Issues](https://img.shields.io/github/issues/auroral-ui/aurora-future)](https://github.com/rkstrdee/wakanda-forever-dark-theme/issues)
+
+
+> A Modern dark panther theme based on Marvel's Black Panther for [Visual Studio Code](http://code.visualstudio.com).
 
 # Default Theme
 ![Screenshot](https://raw.githubusercontent.com/rkstrdee/wakanda-forever-dark-theme/main/screenshots/default_theme_1.png)
+
+![ReactScreenshot](https://raw.githubusercontent.com/rkstrdee/wakanda-forever-dark-theme/main/screenshots/default_theme_2.png)
+
+
+## Recommended combination
+
+- **Font**: use **Dank Mono** or **Operator Mono**
+- **Icon theme**: Material Theme Icon Dark
 
 # Tweaks and theming
 

@@ -2,7 +2,7 @@
     "name": "wakanda-forever-dark-theme",
     "displayName": "Wakanda Forever ",
     "description": "An intelligent theme based on wakanda's panther's color scheme",
-    "version": "0.0.3",
+    "version": "1.0.0",
     "publisher": "ddh4r4m",
     "engines": {
         "vscode": "^1.55.0"
