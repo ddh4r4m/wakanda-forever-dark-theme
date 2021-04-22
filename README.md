@@ -4,7 +4,7 @@
 [![Rating](https://vsmarketplacebadge.apphb.com/rating-star/ddh4r4m.wakanda-forever-dark-theme.svg)](https://marketplace.visualstudio.com/items?itemName=ddh4r4m.wakanda-forever-dark-theme)
 [![Installs](https://vsmarketplacebadge.apphb.com/installs/ddh4r4m.wakanda-forever-dark-theme.svg)](https://marketplace.visualstudio.com/items?itemName=ddh4r4m.wakanda-forever-dark-theme)
 [![Downloads](https://vsmarketplacebadge.apphb.com/downloads/ddh4r4m.wakanda-forever-dark-theme.svg)](https://marketplace.visualstudio.com/items?itemName=ddh4r4m.wakanda-forever-dark-theme)
-[![Issues](https://img.shields.io/github/issues/auroral-ui/aurora-future)](https://github.com/rkstrdee/wakanda-forever-dark-theme/issues)
+[![Issues](https://img.shields.io/github/issues/rkstrdee/wakanda-forever-dark-theme)](https://github.com/rkstrdee/wakanda-forever-dark-theme/issues)
 
 
 > A Modern dark panther theme based on Marvel's Black Panther for [Visual Studio Code](http://code.visualstudio.com).
