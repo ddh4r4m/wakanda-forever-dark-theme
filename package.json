@@ -4,6 +4,10 @@
     "description": "An intelligent theme based on wakanda's panther's color scheme",
     "version": "1.1.2",
     "publisher": "ddh4r4m",
+    "galleryBanner": {
+        "color": "#000000",
+        "theme": "dark"
+    },
     "engines": {
         "vscode": "^1.55.0"
     },
