@@ -22,14 +22,14 @@
 
 ### JavaScript
 
-![SoftJScreenshot](https://github.com/rkstrdee/wakanda-forever-dark-theme/blob/main/screenshots/javascript_theme.png)
+![SoftJScreenshot](https://raw.githubusercontent.com/rkstrdee/wakanda-forever-dark-theme/main/screenshots/javascript_theme.png)
 
 ### Python
 
-![SoftPScreenshot](https://github.com/rkstrdee/wakanda-forever-dark-theme/blob/main/screenshots/python_theme.png)
+![SoftPScreenshot](https://raw.githubusercontent.com/rkstrdee/wakanda-forever-dark-theme/main/screenshots/python_theme.png)
 
 ### C++
-![SoftPScreenshot](https://github.com/rkstrdee/wakanda-forever-dark-theme/blob/main/screenshots/cppsoft_theme.png)
+![SoftPScreenshot](https://raw.githubusercontent.com/rkstrdee/wakanda-forever-dark-theme/main/screenshots/cppsoft_theme.png)
 
 ## Recommended combination
 
