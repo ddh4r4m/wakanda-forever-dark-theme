@@ -18,6 +18,17 @@
 ![ReactScreenshot](https://raw.githubusercontent.com/rkstrdee/wakanda-forever-dark-theme/main/screenshots/default_theme_2.png)
 
 
+# Soft Theme
+
+### JavaScript
+
+![SoftJScreenshot](https://github.com/rkstrdee/wakanda-forever-dark-theme/blob/main/screenshots/javascript_theme.png)
+
+### Python
+
+![SoftJScreenshot](https://github.com/rkstrdee/wakanda-forever-dark-theme/blob/main/screenshots/python_theme.png)
+
+
 ## Recommended combination
 
 - **Font**: use **Dank Mono** or **Operator Mono**
