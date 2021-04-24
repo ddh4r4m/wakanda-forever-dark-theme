@@ -30,6 +30,11 @@
     "contributes": {
         "themes": [
             {
+                "label": "Wakana Forever Soft Theme",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Wakana Forever Soft Theme-color-theme.json"
+            },
+            {
                 "label": "Wakana Forever Theme",
                 "uiTheme": "vs-dark",
                 "path": "./themes/Wakana Forever Theme-color-theme.json"
