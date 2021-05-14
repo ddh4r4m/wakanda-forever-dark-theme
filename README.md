@@ -10,6 +10,9 @@
 > A Modern dark panther theme based on Marvel's Black Panther for [Visual Studio Code](http://code.visualstudio.com).
 
 # Default Theme
+
+![MainScreenshot](https://raw.githubusercontent.com/rkstrdee/wakanda-forever-dark-theme/main/screenshots/default_theme.png)
+
 ![Screenshot](https://raw.githubusercontent.com/rkstrdee/wakanda-forever-dark-theme/main/screenshots/default_theme_1.png)
 
 
