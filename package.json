@@ -39,6 +39,11 @@
                 "path": "./themes/Wakana Forever Soft Theme-color-theme.json"
             },
             {
+                "label": "Wakana Forever Light Theme",
+                "uiTheme": "vs",
+                "path": "./themes/Wakana Forever Light Theme-color-theme.json"
+            },
+            {
                 "label": "Wakana Forever Theme",
                 "uiTheme": "vs-dark",
                 "path": "./themes/Wakana Forever Theme-color-theme.json"
